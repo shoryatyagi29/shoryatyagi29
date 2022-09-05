@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shoryatyagi&label=Profile%20views&color=0e75b6&style=flat" alt="shoryatyagi" /> </p>
 
 # 💫 About Me:
-🔭 I’m currently working on building myself from every aspect as much as I can.<br>👯 I’m looking to collaborate on Artificial Intelligence <br>🤝 I’m looking for help to get into more techy stuff<br>🌱 I’m currently learning C and Yet I know Python<br>💬 Ask me about PYTHON AND WEB DEVELOPMENT<br>⚡ Fun fact I enjoy every second while working.
+🔭 I’m currently working on building myself from every aspect as much as I can.<br>👯 I’m looking to collaborate on Artificial Intelligence. <br>🤝 I’m looking for help so i can get to know about more techy stuff.<br>🌱 I’m currently learning C and Yet I know Python.<br>💬 Ask me about PYTHON AND WEB DEVELOPMENT.<br>⚡ Fun fact I enjoy every second while working.
 
 
 ## 🌐 Socials:
