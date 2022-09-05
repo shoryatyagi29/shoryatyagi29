@@ -6,7 +6,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/a85c0dcdcc774c6f340b07518363d6fb.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shoryatyagi&label=Profile%20views&color=0e75b6&style=flat" alt="shoryatyagi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shoryatyagi29&label=Profile%20views&color=0e75b6&style=flat" alt="shoryatyagi29" /> </p>
 
 # 💫 About Me:
 🔭 I’m currently working on building myself from every aspect as much as I can.<br>👯 I’m looking to collaborate on Artificial Intelligence. <br>🤝 I’m looking for help so i can get to know about more techy stuff.<br>🌱 I’m currently learning C and Yet I know Python.<br>💬 Ask me about PYTHON AND WEB DEVELOPMENT.<br>⚡ Fun fact I enjoy every second while working.
@@ -29,4 +29,4 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shoryatyagi&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=shoryatyagi29&icon=0&color=0)](https://visitcount.itsvg.in)
